@@ -20,7 +20,7 @@ All materials will be available in:
 
 # Project 1
 {% include youtubePlayer.html id=page.youtubeIdP1 %}
-
+ 
 # Project 2
 {% include youtubePlayer.html id=page.youtubeIdP2 %}
-
+ 
