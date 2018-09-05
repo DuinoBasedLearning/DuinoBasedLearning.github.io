@@ -1,5 +1,6 @@
 ---
-youtubeId: Z4iJBV6mO18
+youtubeIdP1: XCYyAsYCE4E
+youtubeIdP2: MeKYclOT9Zc
 ---
 # Duino-Based Learning (DBL)
 DBL is a project to develop freely redistributable materials to conduct educational lab projects with MATLAB, Simulink, Arduino and low-cost plants. The aim is to introduce the fundamentals of Control Engineering through experimentation with simulation and rapid controller prototyping based on the free Arduino support packages for MATLAB and Simulink: https://mathworks.com/arduino
@@ -17,11 +18,9 @@ All materials will be available in:
 - Spanish
 - Catalan
 
-# Videos
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
+# Project 1
+{% include youtubePlayer.html id=page.youtubeIdP1 %}
 
-Example:     youtubeId: Z4iJBV6mO18
--->
+# Project 2
+{% include youtubePlayer.html id=page.youtubeIdP2 %}
 
-{% include youtubePlayer.html id=page.youtubeId %}
