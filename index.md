@@ -27,9 +27,11 @@ A first draft is available at <https://github.com/DuinoBasedLearning/Lab>
 Find below the first videos...
 
 ## Project 1
+<https://youtu.be/XCYyAsYCE4E>
 {% include youtubePlayer.html id=page.youtubeId1 %}
 <br />
  
 ## Project 2
+<https://youtu.be/MeKYclOT9Zc>
 {% include youtubePlayer.html id=page.youtubeId2 %}
 <br />
