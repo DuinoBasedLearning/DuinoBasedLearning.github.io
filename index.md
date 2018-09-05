@@ -24,7 +24,7 @@ A working copy of MATLAB is required. An Arduino board can be acquired at <https
 A first draft is available at <https://github.com/DuinoBasedLearning/Lab>
 
 # Videos
-Find below the first videos...
+Find below the first in Spanish videos...
 
 ## Project 1
 <https://youtu.be/XCYyAsYCE4E>
