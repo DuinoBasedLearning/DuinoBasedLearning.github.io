@@ -13,3 +13,12 @@ All materials will be available in:
 - English
 - Spanish
 - Catalan
+
+# Videos
+<!---
+Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
+
+Example:     youtubeId: Z4iJBV6mO18
+-->
+
+{% include youtubePlayer.html id=page.youtubeId %}
