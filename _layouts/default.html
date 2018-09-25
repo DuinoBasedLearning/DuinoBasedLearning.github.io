@@ -41,8 +41,7 @@
         </ul>
         {% endif %}
         
-        <h2>{{% site.aknowledgement %}}</h2>
-        <p>{{% site.aknowledgementfrase %}}</p>
+      <p>{{ site.description2 | default: site.github.project_tagline }}</p>
         
         
         
