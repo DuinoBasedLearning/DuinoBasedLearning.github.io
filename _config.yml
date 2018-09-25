@@ -3,3 +3,4 @@ description: Freely redistributable materials to conduct educational lab project
 logo2: Logo1.png
 description2: <b>Aknowledgements:</b> This work has been partially founded by the Spanish national projects MICAPEM (ref. DPI2015-69286-C3-2-R, MINECO/FEDER), DPI2017-85404-P and the donation of Mathworks UPC-I-01523.
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
