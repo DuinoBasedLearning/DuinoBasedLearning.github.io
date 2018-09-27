@@ -5,7 +5,7 @@ youtubeId2: MeKYclOT9Zc
 
 # Duino-Based Learning (DBL)
 
-[EN](index.md) | *ES* | [CAT](index_cat.md)
+[EN](index.md) | *ES* | CAT
 
 Creemos que la experimentación es clave en el aprendizaje. Es difícil emplear la metodología del Aprendizaje Basado en Proyectos desde cero y por eso pretendemos proporcionar un punto de partida para cualquier educador o estduiante.
 
