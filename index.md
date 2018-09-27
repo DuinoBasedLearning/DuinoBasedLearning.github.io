@@ -5,7 +5,7 @@ youtubeId2: MeKYclOT9Zc
 
 # Duino-Based Learning (DBL)
 
-**EN** | [ES](index_es.md) | [CAT](index_cat.md)
+**EN** | [ES](index_es.md) | CAT
 
 We believe experimentation is key in learning. Project-Based Learning is hard to implement from scratch and hence we aim to provide a starting point for any educator or learner.
 
