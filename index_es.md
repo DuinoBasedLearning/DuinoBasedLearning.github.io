@@ -3,12 +3,13 @@ youtubeId1: XCYyAsYCE4E
 youtubeId2: MeKYclOT9Zc
 ---
 
+# Duino-Based Learning (DBL)
+
 [EN](index.md) | *ES* | [CAT](index_cat.md)
 
-# Duino-Based Learning (DBL)
-Creemos que la experimentaciÛn es clave en el aprendizaje. Es difÌcil emplear la metodologÌa del Aprendizaje Basado en Proyectos desde cero y por eso pretendemos proporcionar un punto de partida para cualquier educador o estduiante.
+Creemos que la experimentaci√≥n es clave en el aprendizaje. Es dif√≠cil emplear la metodolog√≠a del Aprendizaje Basado en Proyectos desde cero y por eso pretendemos proporcionar un punto de partida para cualquier educador o estduiante.
 
-Este laboratorio introduce los fundamentos de la IngenierÌa de Control a travÈs de simulaciones y prototipado r·pido de controladores con el paquete de soporte de Arduino gratuito para MATLAB y Simulink: <https://mathworks.com/arduino>.
+Este laboratorio introduce los fundamentos de la Ingenier√≠a de Control a trav√©s de simulaciones y prototipado r√°pido de controladores con el paquete de soporte de Arduino gratuito para MATLAB y Simulink: <https://mathworks.com/arduino>.
 
 Se necesita una copia de MATLAB y una placa de Arduino que puede adquirirse en <https://www.arduino.cc>
 
