@@ -1,4 +1,9 @@
 ---
+youtubeId1: XCYyAsYCE4E
+youtubeId2: MeKYclOT9Zc
+---
+
+---
 layout: page
 title: PROJECTS
 permalink: /projects/
