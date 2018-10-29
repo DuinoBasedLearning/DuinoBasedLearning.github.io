@@ -5,11 +5,11 @@ permalink: /projects/
 ---
 
 ```markdown
-# Practica 1
+PRÁCTICA 1
 ```
 ```markdown
-# Practica 2
+PRÁCTICA 2
 ```
 ```markdown
-# Practica 3
+PRÁCTICA 3
 ```
