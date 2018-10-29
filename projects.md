@@ -3,10 +3,7 @@ layout: page
 title: PROJECTS
 permalink: /projects/
 ---
----
-youtubeId1: XCYyAsYCE4E
-youtubeId2: MeKYclOT9Zc
----
+
 
 ## Videos
 Find below the first in Spanish videos...
@@ -16,7 +13,7 @@ PRÁCTICA 1
 
 ```
 <https://youtu.be/XCYyAsYCE4E>
-{% include youtubePlayer.html id=page.youtubeId1 %}
+{% include youtubePlayer.html id=page.XCYyAsYCE4E %}
 <br />
 
 ```markdown
@@ -24,7 +21,7 @@ PRÁCTICA 2
 
 ```
 <https://youtu.be/MeKYclOT9Zc>
-{% include youtubePlayer.html id=page.youtubeId2 %}
+{% include youtubePlayer.html id=page.MeKYclOT9Zc %}
 <br />
 
 ```markdown
