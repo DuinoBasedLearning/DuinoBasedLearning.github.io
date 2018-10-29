@@ -3,7 +3,7 @@ youtubeId1: XCYyAsYCE4E
 youtubeId2: MeKYclOT9Zc
 ---
 
-[ENGLISH](README.md) | *ESPAÑOL* | CATALÀ
+<img src="en.png" alt="English">[ENGLISH](README.md) | <img src="es.png" alt="Español">*ESPAÑOL* | <img src="ca.png" alt="Català"> CATALÀ
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
