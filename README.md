@@ -9,19 +9,3 @@ The lab introduces the fundamentals of Control Engineering through simulation an
 
 A working copy of MATLAB is required. An Arduino board can be acquired at <https://www.arduino.cc>.
 
-
-# Downloadble materials
-A first draft is available at <https://github.com/DuinoBasedLearning/Lab>
-
-# Videos
-Find below the first in Spanish videos...
-
-## Project 1
-<https://youtu.be/XCYyAsYCE4E>
-{% include youtubePlayer.html id=page.youtubeId1 %}
-<br />
- 
-## Project 2
-<https://youtu.be/MeKYclOT9Zc>
-{% include youtubePlayer.html id=page.youtubeId2 %}
-<br />
