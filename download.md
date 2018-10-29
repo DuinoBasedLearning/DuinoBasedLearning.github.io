@@ -5,10 +5,10 @@ permalink: /download/
 ---
 
 ## Downloadable materials
-A first draft is available at <https://github.com/DuinoBasedLearning/Lab/en/>
+A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
 
 ## Material descargable
-Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/es/>
+Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
 
 ## Material descarregable
-Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/cat/>
+Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
