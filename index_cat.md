@@ -1,4 +1,4 @@
-<img src="en.png" alt="English"> [ENGLISH](index.md) | <img src="es.png" alt="Español">[ESPAÑOL](index_es.md) | <img src="ca.png" alt="Català"> *CATALÀ*
+<img src="en.png" alt="English"> [ENGLISH](index.md) | <img src="es.png" alt="Castellano">[CASTELLANO](index_es.md) | <img src="ca.png" alt="Català"> *CATALÀ*
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
