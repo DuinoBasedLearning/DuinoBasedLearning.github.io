@@ -4,11 +4,11 @@ title: DOWNLOAD
 permalink: /download/
 ---
 
-## Downloadable materials
+# [Downloadable materials]
 A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
 
-## Material descargable
+# [Material descargable]
 Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
 
-## Material descarregable
+# [Material descarregable]
 Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
