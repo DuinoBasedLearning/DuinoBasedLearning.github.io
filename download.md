@@ -6,25 +6,25 @@ permalink: /download/
 
 <table class="egt">
 
-  <tr>
+  <td>
 
    ## Downloadable materials
    A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
 
-  </tr>
+  </td>
 
-  <tr>
+  <td>
   
   ## Material descargable
   Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
 
-  </tr>
+  </td>
   
-  <tr>
+  <td>
   
   ## Material descarregable
   Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
 
-  </tr>
+  </td>
   
 </table>
