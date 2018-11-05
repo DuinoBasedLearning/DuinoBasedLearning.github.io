@@ -8,25 +8,25 @@ permalink: /about/
 
   <tr>
 
-    <td><img src="cara.png" alt="Author1"></td>
+    <th><img src="cara.png" alt="Author1"></th>
 
-    <td><img src="cara.png" alt="Author2"></td>
+    <th><img src="cara.png" alt="Author2"></th>
 
-    <td><img src="cara.png" alt="Author3"></td>
+    <th><img src="cara.png" alt="Author3"></th>
     
-    <td><img src="cara.png" alt="Author4"></td>
+    <th><img src="cara.png" alt="Author4"></th>
 
   </tr>
 
   <tr>
 
-    <td><b>Author 1:</b> Descripcion</td>
+    <th><b>Author 1:</b> Descripcion</th>
 
-    <td><b>Author 2:</b> Descripcion</td>
+    <th><b>Author 2:</b> Descripcion</th>
 
-    <td><b>Author 3:</b> Descripcion</td>
+    <th><b>Author 3:</b> Descripcion</th>
     
-    <td><b>Author 4:</b> Descripcion</td>
+    <th><b>Author 4:</b> Descripcion</th>
 
   </tr>
 
