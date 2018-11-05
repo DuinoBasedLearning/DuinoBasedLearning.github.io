@@ -9,4 +9,4 @@ The lab introduces the fundamentals of Control Engineering through simulation an
 A working copy of MATLAB is required. An Arduino board can be acquired at <https://www.arduino.cc>.
 
 # PROJECTS
-All the projects can be seen on (projects.md) and all the material can be downloaded in the three languages in (download.md)
+All the projects can be seen on [projects](projects.md) window and all the material can be downloaded in the three languages on the [download](download.md) window.
