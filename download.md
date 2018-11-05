@@ -3,15 +3,16 @@ layout: page
 title: DOWNLOAD
 permalink: /download/
 ---
-<hr/>
+
 ## Downloadable materials
+<hr/>
 A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
-<hr/>
-<hr/>
+
 ## Material descargable
+<hr/>
 Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
-<hr/>
-<hr/>
+
 ## Material descarregable
-Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
 <hr/>
+Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
+
