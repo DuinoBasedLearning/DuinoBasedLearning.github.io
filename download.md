@@ -4,19 +4,27 @@ title: DOWNLOAD
 permalink: /download/
 ---
 
-<hr/>
+<table class="egt">
 
-## Downloadable materials
-A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
+  <tr>
 
-<hr/>
+   ## Downloadable materials
+   A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
 
-## Material descargable
-Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
+  </tr>
 
-<hr/>
+  <tr>
+  
+  ## Material descargable
+  Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
 
-## Material descarregable
-Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
+  </tr>
+  
+  <tr>
+  
+  ## Material descarregable
+  Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
 
-<hr/>
+  </tr>
+  
+</table>
