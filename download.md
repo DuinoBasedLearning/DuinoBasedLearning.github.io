@@ -8,7 +8,7 @@ permalink: /download/
 
   <tr>
   
-  ## Downloadable materials 
+  Downloadable materials 
   
   </tr>
   
@@ -20,7 +20,7 @@ permalink: /download/
 
   <tr>
   
-  ## Material descargable 
+  Material descargable 
   
   </tr>
   
@@ -32,7 +32,7 @@ permalink: /download/
   
   <tr>
   
-  ## Material descarregable 
+  Material descarregable 
   
   </tr> 
   
