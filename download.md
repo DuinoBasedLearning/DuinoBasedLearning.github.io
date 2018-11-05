@@ -20,3 +20,6 @@ Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/L
 <div class="boxed">
   This text is enclosed in a box.
 </div>
+.boxed {
+  border: 1px solid green ;
+}
