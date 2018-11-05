@@ -4,6 +4,8 @@ title: DOWNLOAD
 permalink: /download/
 ---
 
+<hr/>
+
 ## Downloadable materials
 A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
 
@@ -17,9 +19,4 @@ Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree
 ## Material descarregable
 Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
 
-<div class="boxed">
-  This text is enclosed in a box.
-</div>
-.boxed {
-  border: 1px solid green ;
-}
+<hr/>
