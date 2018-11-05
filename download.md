@@ -17,3 +17,6 @@ Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree
 ## Material descarregable
 Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat>
 
+<div class="boxed">
+  This text is enclosed in a box.
+</div>
