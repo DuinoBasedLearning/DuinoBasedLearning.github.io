@@ -4,27 +4,29 @@ title: ABOUT US
 permalink: /about/
 ---
 
-Nuestras fotos con nuestras descripciones e emails.
-
 <table class="egt">
 
   <tr>
 
-    <td>Celda 1</td>
+    <td><img src="cara.png" alt="Author1"></td>
 
-    <td>Celda 2</td>
+    <td><img src="cara.png" alt="Author2"></td>
 
-    <td>Celda 3</td>
+    <td><img src="cara.png" alt="Author3"></td>
+    
+    <td><img src="cara.png" alt="Author4"></td>
 
   </tr>
 
   <tr>
 
-    <td>Celda 4</td>
+    <td><b>Author 1:</b> Descripcion</td>
 
-    <td>Celda 5</td>
+    <td><b>Author 2:</b> Descripcion</td>
 
-    <td>Celda 6</td>
+    <td><b>Author 3:</b> Descripcion</td>
+    
+    <td><b>Author 4:</b> Descripcion</td>
 
   </tr>
 
