@@ -5,24 +5,23 @@ permalink: /about/
 ---
 
 
-<div class="row">
-  <div class="column">
-    <img src="cara.png" alt="Author1"> width="50" height="60"
-    <p>Some text..</p>
-  </div>
-  <div class="column">
-    <img src="cara.png" alt="Author1"> width="50" height="60"
-    <p>Some text..</p>
-  </div>
-  <div class="column">
-    <img src="cara.png" alt="Author1"> width="50" height="60"
-    <p>Some text..</p>
-  </div>
-  <div class="column">
-    <img src="cara.png" alt="Author1"> width="50" height="60"
-    <p>Some text..</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="cara.png" alt="Author1"></td>
+    <td><img src="cara.png" alt="Author2"></td>
+    <td><img src="cara.png" alt="Author3"></td>
+    <td><img src="cara.png" alt="Author4"></td>
+  </tr>
+  
+  <tr>
+   <td><b>Author 1:</b> Descripcion</td>
+   <td><b>Author 2:</b> Descripcion</td>
+   <td><b>Author 3:</b> Descripcion</td>  
+   <td><b>Author 4:</b> Descripcion</td>
+  </tr>
+  
+</table>
+
 
 
 
