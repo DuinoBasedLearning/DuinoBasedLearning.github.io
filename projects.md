@@ -2,6 +2,7 @@
 youtubeId1: XCYyAsYCE4E
 youtubeId2: MeKYclOT9Zc
 layout: page
+lang: en
 title: PROJECTS
 permalink: /projects/
 ---
