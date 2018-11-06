@@ -5,7 +5,10 @@ permalink: /about/
 ---
 
 
-<img src="cara.png" alt="Author1" width="128" height="128"><img src="cara.png" alt="Author2" width="128" height="128"><img src="cara.png" alt="Author3" width="128" height="128"><img src="cara.png" alt="Author4" width="128" height="128">
+<img src="cara.png" alt="Author1" width="128" height="128"> 
+<img src="cara.png" alt="Author2" width="128" height="128">
+<img src="cara.png" alt="Author3" width="128" height="128">
+<img src="cara.png" alt="Author4" width="128" height="128">
 
 <table>  
   <tr>
