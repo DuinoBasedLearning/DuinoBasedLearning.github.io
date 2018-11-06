@@ -8,13 +8,13 @@ permalink: /about/
 
   <tr>
 
-    <td><img src="cara.png" alt="Author1"></td>
+    <td><img src="cara.png" alt="Author1" width="50" height="60"></td>
 
-    <td><img src="cara.png" alt="Author2"></td>
+    <td><img src="cara.png" alt="Author2" width="50" height="60"></td>
 
-    <td><img src="cara.png" alt="Author3"></td>
+    <td><img src="cara.png" alt="Author3" width="50" height="60"></td>
     
-    <td><img src="cara.png" alt="Author4"></td>
+    <td><img src="cara.png" alt="Author4" width="50" height="60"></td>
 
   </tr>
 
