@@ -7,7 +7,7 @@ permalink: /download/
         
 image: en.png     
 
-<img src="" alt="English"> *ENGLISH* | <img src="DuinoBasedLearning.github.io/es.png" alt="castellano">[CASTELLANO](descargar.md) | <img src="DuinoBasedLearning.github.io/ca.png" alt="Català">[CATALÀ](Descarregar.md)
+<img src="en.png" alt="English"> *ENGLISH* | <img src="DuinoBasedLearning.github.io/es.png" alt="castellano"> [CASTELLANO](descargar.md) | <img src="DuinoBasedLearning.github.io/ca.png" alt="Català"> [CATALÀ](Descarregar.md)
 
 <hr/>
 ## Downloadable materials 
