@@ -1,4 +1,10 @@
- <img src="en.png" alt="English"> *ENGLISH* | <img src="es.png" alt="castellano"> [CASTELLANO](index_es.md) | <img src="ca.png" alt="Català"> [CATALÀ](index_cat.md)
+---
+layout: page
+lang: en
+permalink: /
+---
+
+<img src="en.png" alt="English"> *ENGLISH* | <img src="es.png" alt="castellano"> [CASTELLANO](index_es.md) | <img src="ca.png" alt="Català"> [CATALÀ](index_cat.md)
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
