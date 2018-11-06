@@ -15,7 +15,7 @@ permalink: /download/
 
   <tr>
 
-    <td> A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en> </td>
+    <td> A first draft is available at https://github.com/DuinoBasedLearning/Lab/tree/master/en </td>
 
   </tr>
   
