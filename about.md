@@ -7,10 +7,10 @@ permalink: /about/
 
 <table>  
   <tr>
-    <td>author:"cara.png" </td>
-    <td>author:"cara.png"</td>
-    <td>author:"cara.png"</td>
-    <td>author:"cara.png"</td>
+    <td>author:cara.png </td>
+    <td>author:cara.png</td>
+    <td>author:cara.png</td>
+    <td>author:cara.png</td>
   </tr>
 
   
