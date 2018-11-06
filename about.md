@@ -7,43 +7,20 @@ permalink: /about/
 
 <table>
   <tr>
-    <th><img src="cara.png" alt="Girl in a jacket"></th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th><img src="cara.png" alt="Author1"></th>
+    <th><img src="cara.png" alt="Author2"></th>
+    <th><img src="cara.png" alt="Author3"></th>
+    <th><img src="cara.png" alt="Author4"></th>
   </tr>
+  
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+   <td><b>Author 1:</b> Descripcion</td>
+   <td><b>Author 2:</b> Descripcion</td>
+   <td><b>Author 3:</b> Descripcion</td>  
+   <td><b>Author 4:</b> Descripcion</td>
   </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
+  
 </table>
-
-</body>
 
 
 
