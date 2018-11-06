@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: en
 title: DOWNLOAD
 permalink: /download/
 ---
