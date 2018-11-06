@@ -8,3 +8,7 @@ Este laboratorio introduce los fundamentos de la Ingeniería de Control a travé
 
 Se necesita una copia de MATLAB y una placa de Arduino que puede adquirirse en <https://www.arduino.cc>
 
+## Projectos
+Las prácticas de la asignatura Control por Computadora consisten en el estudio de un servomecanismo de posicionamiento angular (LJ Technical Systems) controlado por una PC. Las sesiones de laboratorio P1 y P2 se centran en el análisis experimental de las respuestas temporales y de frecuencia del sistema, respectivamente. La sesión P3 está dedicada al diseño de controladores PID.
+
+Todos los proyectos se pueden ver en el apartado [proyectos](projects.md) y todo el material se puede descargar en los tres idiomas en el apartado [descarga](download.md). En esta última sección, encontrará los archivos MATLAB/Simulink y otros documentos interesantes como los *gerbers* utilizados para crear un *shield* de Arduino Due junto a una explicación de cómo se ha creado el adaptador de señal.
