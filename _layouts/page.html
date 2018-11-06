@@ -3,6 +3,9 @@ layout: default
 ---
 <article class="post">  
   
+
+  <div class="post-content">
+    
   {% if site.flag1 %}
     <img src="{{site.flag1 | relative_url}}" alt="english">
   {% endif %}
@@ -14,22 +17,11 @@ layout: default
   {% if site.flag3 %}
     <img src="{{site.flag3 | relative_url}}" alt="català">
   {% endif %}
-  
-  <div class="post-content">
     
-    <!-- Insert languageSelector CSS -->
-  <link rel="stylesheet" href="language.css">
-    
-  {% if site.image %}
-    <img src="{{site.image | relative_url}}" alt="image">
-  {% endif %}
-  
+
     {{ content }}
   </div>
 
-   {% if site.image %}
-    <img src="{{site.image | relative_url}}" alt="image">
-  {% endif %}
   
 
   
