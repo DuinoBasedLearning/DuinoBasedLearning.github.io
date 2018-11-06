@@ -1,7 +1,5 @@
 ---
 image: en.png
-image: es.png
-image: ca.png
 layout: page
 title: DOWNLOAD
 permalink: /download/
