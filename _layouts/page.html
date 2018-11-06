@@ -3,8 +3,16 @@ layout: default
 ---
 <article class="post">  
   
-{% if site.image %}
-    <img src="{{site.image | relative_url}}" alt="image">
+  {% if site.flag1 %}
+    <img src="{{site.flag1 | relative_url}}" alt="english">
+  {% endif %}
+  
+  {% if site.flag2 %}
+    <img src="{{site.flag2 | relative_url}}" alt="castellano">
+  {% endif %}
+  
+  {% if site.flag3 %}
+    <img src="{{site.flag3 | relative_url}}" alt="català">
   {% endif %}
   
   <div class="post-content">
