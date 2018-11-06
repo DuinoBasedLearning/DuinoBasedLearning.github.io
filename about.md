@@ -4,6 +4,7 @@ title: ABOUT US
 permalink: /about/
 ---
 
+![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](sobrenosotros.md) | ![Català](ca.png) [CATALÀ](sobrenosaltres.md)
 
 <table>
   <tr>
