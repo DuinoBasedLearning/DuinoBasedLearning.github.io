@@ -6,12 +6,13 @@ permalink: /about/
 
 
 <table>  
-  <tr>
-    <td>author:cara.png </td>
-    <td>author:cara.png</td>
-    <td>author:cara.png</td>
-    <td>author:cara.png</td>
+    <tr>
+    <td><img src="cara.png" alt="Author1"></td>
+    <td><img src="cara.png" alt="Author2"></td>
+    <td><img src="cara.png" alt="Author3"></td>
+    <td><img src="cara.png" alt="Author4"></td>
   </tr>
+
 
   
   <tr>
