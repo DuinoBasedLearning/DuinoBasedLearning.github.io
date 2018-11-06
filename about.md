@@ -25,7 +25,7 @@ permalink: /about/
 </div>
 
 </body>
-</html>
+
 
 
 
