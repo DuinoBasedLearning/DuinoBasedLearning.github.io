@@ -7,10 +7,7 @@ permalink: /about/
 
 <table>
   <tr>
-    <td><img src="cara.png" alt="Author1" width="5" height="6"></td>
-    <td><img src="cara.png" alt="Author2" width="5" height="6"></td>
-    <td><img src="cara.png" alt="Author3" width="5" height="6"></td>
-    <td><img src="cara.png" alt="Author4" width="5" height="6"></td>
+    <img src="cara.png" alt="Author1"><img src="cara.png" alt="Author2"><img src="cara.png" alt="Author3"><img src="cara.png" alt="Author4">
   </tr>
   
   <tr>
