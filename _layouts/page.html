@@ -3,15 +3,19 @@ layout: default
 ---
 <article class="post">  
   
+
+  <div class="post-content">
+    
+    <!-- Insert languageSelector CSS -->
+  <link rel="stylesheet" href="language.css">
+    
   {% if site.image %}
     <img src="{{site.image | relative_url}}" alt="image">
   {% endif %}
   
-  <div class="post-content">
     {{ content }}
   </div>
 
-  <!-- Insert languageSelector CSS -->
-  <link rel="stylesheet" href="language.css">
+ 
   
 </article>
