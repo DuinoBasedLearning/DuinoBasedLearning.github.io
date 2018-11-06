@@ -9,6 +9,10 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+	  {% if site.image %}
+	    <img src="{{site.image | relative_url}}" alt="image">
+	  {% endif %}
+  
         {{ content }}
       </div>
     </main>
