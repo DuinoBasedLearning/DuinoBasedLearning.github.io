@@ -3,6 +3,10 @@ layout: default
 ---
 <article class="post">  
   
+  {% if site.image %}
+    <img src="{{site.image | relative_url}}" alt="image">
+  {% endif %}
+  
   <div class="post-content">
     {{ content }}
   </div>
