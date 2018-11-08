@@ -7,7 +7,7 @@ permalink: /projects/
 
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](projectos.md) | ![Català](ca.png) [CATALÀ](projectes.md)
 
-# Videos
+# Projects
 Find the first draft in [Spanish](projectos.md) ...
 
 
