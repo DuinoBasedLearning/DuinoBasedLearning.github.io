@@ -1,5 +1,6 @@
 ---
 youtubeId1: XCYyAsYCE4E
+youtubeId2: MeKYcl0T9Zc
 
 ---
 
@@ -34,6 +35,10 @@ En este apartado podéis encontrar toda la información para poder realizar cual
     <li>Aplicar el criterio de Nyquist para determinar el rango de valores de un controlador proporcional para que el sistema en lazo cerrado sea estable, y verificarlo experimentalmente.</li>
     <li>Comparar los resultados obtenidos con los resultados teóricos.</li>
  </ul>
+
+<https://youtu.be/MeKYclOT9Zc>
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br />
 
 
 <hr/>
