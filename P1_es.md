@@ -1,5 +1,6 @@
 ---
 youtubeId1: XCYyAsYCE4E
+
 ---
 
 # PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital
