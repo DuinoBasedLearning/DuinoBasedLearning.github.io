@@ -37,4 +37,4 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 <br />
 <hr/>
 
-## [PRÁCTICA 3: Diseño e implementación de controladores PID](P2_es.md)
+## *PRÁCTICA 3: Diseño e implementación de controladores PID*
