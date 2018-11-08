@@ -8,6 +8,6 @@
  -Comparar los resultados obtenidos con los resultados teóricos.
 
 <https://youtu.be/MeKYclOT9Zc>
-{% include youtubePlayer.html id=page.youtubeId2 %}
+{% include youtubePlayer.html id=page.MeKYclOT9Zc %}
 <br />
 
