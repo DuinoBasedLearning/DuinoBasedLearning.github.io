@@ -1,3 +1,9 @@
+---
+youtubeId1: XCYyAsYCE4E
+
+---
+
+
 <img src="en.png" alt="English"> [ENGLISH](projects.md) | <img src="es.png" alt="Castellano"> *CASTELLANO* | <img src="ca.png" alt="Català"> [CATALÀ](projectes.md)
 
 # PROYECTOS
@@ -15,7 +21,9 @@ En este apartado podéis encontrar toda la información para poder realizar cual
   <li>Evaluar las prestaciones (precisión y estabilidad) del sistema en función del periodo de muestreo.</li>
 </ul>  
 
-
+ <https://youtu.be/XCYyAsYCE4E>
+{% include youtubePlayer.html id=page.youtubeId1 %}
+<br />
 
 <hr/>
 
