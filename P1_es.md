@@ -1,7 +1,3 @@
----
-youtubeId1: XCYyAsYCE4E
-
----
 
 # PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital
 ### OBJETIVO: Análisis de la respuesta temporal de un sistema de control digital para diferentes periodos de muestreo. Análisis de la precisión y de la estabilidad. En esta sesión el estudiante ha de:
@@ -13,5 +9,5 @@ youtubeId1: XCYyAsYCE4E
 
 
 <https://youtu.be/XCYyAsYCE4E>
-{% include youtubePlayer.html id=page.youtubeId1 %}
+{% include youtubePlayer.html id=page. XCYyAsYCE4E %}
 <br />
