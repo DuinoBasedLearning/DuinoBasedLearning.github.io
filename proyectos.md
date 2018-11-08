@@ -16,10 +16,6 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 </ul>  
 
 
-<https://youtu.be/XCYyAsYCE4E>
-{% include youtubePlayer.html id=page. XCYyAsYCE4E %}
-<br />
-
 
 <hr/>
 
@@ -32,9 +28,6 @@ En este apartado podéis encontrar toda la información para poder realizar cual
  </ul>
 
 
-<https://youtu.be/MeKYclOT9Zc>
-{% include youtubePlayer.html id=page.MeKYclOT9Zc %}
-<br />
 <hr/>
 
 ## *PRÁCTICA 3: Diseño e implementación de controladores PID*
