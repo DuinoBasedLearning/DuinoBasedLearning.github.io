@@ -5,12 +5,13 @@ Las prácticas de la asignatura Control con Computador consisten en el estudio d
 En este apartado podéis encontrar toda la información para poder realizar cualquiera de estas prácticas. Los materiales incluyen instrucciones para construir plantas de bajo coste, ejercicios y vídeos.
 
 <hr/>
-## [PRÁCTICA 1:](P1_es.md) Análisis de la respuesta temporal de un sistema de control digital
+
+## [PRÁCTICA 1: Análisis de la respuesta temporal de un sistema de control digital](P1_es.md)
 
 <hr/>
 
-## [PRÁCTICA 2:](P2_es.md) Análisis de la respuesta frequencial de un sistema de control digital
+## [PRÁCTICA 2: Análisis de la respuesta frequencial de un sistema de control digital](P2_es.md) 
 
 <hr/>
 
-## [PRÁCTICA 3:](P2_es.md) Diseño e implementación de controladores PID
+## [PRÁCTICA 3: Diseño e implementación de controladores PID](P2_es.md)
