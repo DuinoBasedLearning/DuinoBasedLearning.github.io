@@ -1,5 +1,6 @@
 ---
 youtubeId2: MeKYclOT9Zc
+
 ---
 
 # PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital
