@@ -1,4 +1,6 @@
-
+---
+layout: none
+---
 
 # PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital
 ### OBJETIVO: Análisis de la respuesta frecuencial del sistema de control digital de velocidad. Análisis de la estabilidad mediante el criterio de Nyquist.
