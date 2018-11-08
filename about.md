@@ -10,7 +10,6 @@ permalink: /about/
 
 
 |![Author1](cara.png)|![Author1](cara.png)|![Author1](cara.png)|![Author1](cara.png)|
-| :---------: |:---------:| :---------:| :--------:|
 | <b>Author 1:</b> Descripcion      | <b>Author 2:</b> Descripcion | <b>Author 3:</b> Descripcion |<b>Author 4:</b> Descripcion| 
 
 
