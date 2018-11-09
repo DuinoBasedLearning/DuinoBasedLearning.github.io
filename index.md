@@ -24,13 +24,13 @@ All the projects can be seen on [projects](projects.md) and all the material can
 Materials include:
 <ul>
   <li>Build instructions for all setups</li>
-  <li>MATLAB live scrips with exercises</li>
+  <li>MATLAB live scripts with exercises</li>
   <li>Simulink models</li>
   <li>Walk-through videos</li>
 </ul>
 
 # Languages
-All material will be availabe in:
+All material will be available in:
 <ul>
   <li>English</li>
   <li>Spanish</li>
