@@ -14,7 +14,7 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## [PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital](P1_es.md)
+## [PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital](P1_es.html)
 
 <hr/>
 
