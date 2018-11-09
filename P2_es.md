@@ -1,6 +1,6 @@
 ---
 youtubeId2: MeKYclOT9Zc
-layout: default
+
 ---
 
 
