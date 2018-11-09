@@ -18,7 +18,7 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## [PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital](P2_es.md)
+## [PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital](P2_es.html)
 
 <hr/>
 
