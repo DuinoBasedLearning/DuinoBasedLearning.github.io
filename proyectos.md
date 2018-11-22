@@ -14,7 +14,7 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## *PRÁCTICA 0:Introducción a la programación en Arduino mediante MATLAB/Simulink*
+## *PRÁCTICA 0: Introducción a la programación en Arduino mediante MATLAB/Simulink*
 
 <hr/>
 
@@ -30,4 +30,4 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## *PRÁCTICA 4:Diseño de controladores en campo frecuencial*
+## *PRÁCTICA 4: Diseño de controladores en campo frecuencial*
