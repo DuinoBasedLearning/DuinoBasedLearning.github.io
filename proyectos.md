@@ -14,6 +14,10 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
+## *PRÁCTICA 0:Introducción a la programación en Arduino mediante MATLAB/Simulink*
+
+<hr/>
+
 ## [PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital](P1_es.html)
 
 <hr/>
@@ -23,3 +27,7 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 <hr/>
 
 ## *PRÁCTICA 3: Diseño e implementación de controladores PID*
+
+<hr/>
+
+## *PRÁCTICA 4:Diseño de controladores en campo frecuencial*
