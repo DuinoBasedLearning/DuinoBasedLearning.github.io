@@ -20,6 +20,10 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 ## [PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital](P1_es.html)
 
+<https://youtu.be/MeKYclOT9Zc>
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br />
+
 <hr/>
 
 ## [PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital](P2_es.html)
