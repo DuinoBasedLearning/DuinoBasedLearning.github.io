@@ -14,9 +14,9 @@ In order to realize the projects done in this web page, the items depicted in th
 
 <ul>
   <li><b>Arduino Due:</b> There exist similar Arduino boards which could be used. All of them have similar price but different computation burden. In the project, the Arduino Due board was selected due to it high computation performance and the fact that ithas real DA converters (most of the Arduino board only have PWM output). <br>
-  In this projects the arduino board is programmed by Simulink, but it can also be programmed by MATLAB. <br>
-  To programm the Arduino by Simulink the Simulink support package for Arduino hardware is needed. This package enables you to create and run Simulink models on Arduino boards. More information can be found in https://es.mathworks.com/hardware-support/arduino-simulink.html. <br>
-  To programm the Arduino by MATLAB the MATLAB support package for Arduino hardware is needed.This package enables you to use MATLAB to communicate with an Arduino board. You can read and write sensor data through the Arduino and immediately see the results in MATLAB without having to compile. More information can be found in https://es.mathworks.com/hardware-support/arduino-matlab.html. <br>
+  In this projects the arduino board is programed by Simulink, but it can also be programmed by MATLAB. <br>
+  To program the Arduino by Simulink the Simulink support package for Arduino hardware is needed. This package enables you to create and run Simulink models on Arduino boards. More information can be found in https://es.mathworks.com/hardware-support/arduino-simulink.html. <br>
+  To program the Arduino by MATLAB the MATLAB support package for Arduino hardware is needed.This package enables you to use MATLAB to communicate with an Arduino board. You can read and write sensor data through the Arduino and immediately see the results in MATLAB without having to compile. More information can be found in https://es.mathworks.com/hardware-support/arduino-matlab.html. <br>
   For more information about this packages you can search go to https://es.mathworks.com/discovery/programacion-arduino.html.
   </li>
   <li><b>LJ Technical Systems' servosystem:</b> This motor module enables the user to perform closed-loop, positional or speed control of a DC motor. 
