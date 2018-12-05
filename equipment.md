@@ -10,3 +10,7 @@ permalink: /equipment/
 
 
 ![Equipment](equipment.PNG)
+
+
+
+As we can see on the image.....
