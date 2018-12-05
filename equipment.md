@@ -27,9 +27,8 @@ In order to realize the projects done in this web page, the items depicted in th
   <li><b>Arduino Due shield:</b> The input and output range of our plant is &plusmn 5v while the Arduino Due can only handle signals in the [0,3.3]v range. In order to avoid this problem, a signal conditioner in the shape of a shield has been designed.</li>
 </ul>   
 
-<p align="center">
-  ![DueShield](shield.png)
-</p>
+![DueShield](shield.png)
+
 
 
 <ul>
