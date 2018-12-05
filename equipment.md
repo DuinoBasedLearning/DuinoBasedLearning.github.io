@@ -30,7 +30,7 @@ In order to realize the projects done in this web page, the items depicted in th
 </ul>  
 
 On the following images we can see the connection diagram of our complete system. <br>
-In this projects the arduino board is programed by Simulink, but it can also be programed by MATLAB. <br>
+On those projects the Arduino board has been programed by Simulink, but it can also be programed by MATLAB. <br>
   To program the Arduino by Simulink the Simulink support package for Arduino hardware is needed. This package enables you to create and run Simulink models on Arduino boards. More information can be found in <https://es.mathworks.com/hardware-support/arduino-simulink.html>. <br>
   To program the Arduino by MATLAB the MATLAB support package for Arduino hardware is needed.This package enables you to use MATLAB to communicate with an Arduino board. You can read and write sensor data through the Arduino and immediately see the results in MATLAB without having to compile. More information can be found in <https://es.mathworks.com/hardware-support/arduino-matlab.html>. <br>
   For more information about this packages you can search go to <https://es.mathworks.com/discovery/programacion-arduino.html>.
