@@ -17,8 +17,6 @@ In order to realize the projects done in this web page, the items depicted in th
 burden. In the project, the Arduino Due board was selected due to it high computation performance and the fact that ithas real DA converters (most of the Arduino board only have PWM output).</li>
   <li><b>LJ Technical Systems' servosystem:</b> adajn </li>
   
-  ![LJTechnicalSystems](motorra.png)
-  
   ![Equipment](motorra2.png)
   
   <li><b>Arduino Due shield:</b> The input and output range of our plant is &plusmn 5v while the Arduino Due can only handle signals in the [0,3.3]v range. In order to avoid this problem, a signal conditioner in the shape of a shield has been designed.</li>
