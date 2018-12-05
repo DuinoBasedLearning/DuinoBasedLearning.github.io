@@ -35,4 +35,7 @@ On those projects the Arduino board has been programed by Simulink, but it can a
   To program the Arduino by MATLAB the MATLAB support package for Arduino hardware is needed.This package enables you to use MATLAB to communicate with an Arduino board. You can read and write sensor data through the Arduino and immediately see the results in MATLAB without having to compile. More information can be found in <https://es.mathworks.com/hardware-support/arduino-matlab.html>. <br>
   For more information about this packages you can search go to <https://es.mathworks.com/discovery/programacion-arduino.html>.
 
-![ConnectionDiagram](Connection.PNG)
+
+|![ConnectionDiagram](Connection.PNG)|![desktop](desktop.jpg)|
+
+
