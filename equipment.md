@@ -27,7 +27,7 @@ In order to realize the projects done in this web page, the items depicted in th
   <li><b>Arduino Due shield:</b> The input and output range of our plant is &plusmn 5v while the Arduino Due can only handle signals in the [0,3.3]v range. In order to avoid this problem, a signal conditioner in the shape of a shield has been designed.</li>
 </ul>   
 
-![DueShield](shield.gif)
+![DueShield](shield.png)
 
 <ul>
   <li><b>Banana cables:</b> This cables are used to connect the Arduino Due with our plant. By this cables, we are able to obtain and transfere data related to the input voltage and output voltages of the potentiometer and dynamo tachimeter. The connection to common ground between the Arduino and the servosystem is also done by this cables.</li>
@@ -41,6 +41,8 @@ On those projects the Arduino board has been programed by Simulink, but it can a
   For more information about this packages you can search go to <https://es.mathworks.com/discovery/programacion-arduino.html>.
 
 
-|![ConnectionDiagram](Connection.PNG)|<img src="desktop.jpg" alt="Smiley face" height="42" width="42">|
-| :---------: |:---------:|
+![ConnectionDiagram](Connection.PNG)
+![Desktop](desktop.jpg)
+
+
 
