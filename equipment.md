@@ -6,6 +6,8 @@ permalink: /equipment/
 
 ---
 
+In order to realize the projects, the items depicted in the figure aside are needed.
+
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](equipo.md) | ![Català](ca.png) [CATALÀ](equip.md)
 
 
