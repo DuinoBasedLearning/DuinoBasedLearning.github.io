@@ -15,9 +15,9 @@ In order to realize the projects done in this web page, the items depicted in th
 <ul>
   <li><b>Arduino Due:</b> There exist similar Arduino boards which could be used. All of them have similar price but different computation
 burden. In the project, the Arduino Due board was selected due to it high computation performance and the fact that ithas real DA converters (most of the Arduino board only have PWM output).</li>
-  <li><b>LJ Technical Systems' servosystem:</b> This motor module enables the user to perform closed-loop, positional or speed control of a DC motor. 
-    The speed and direction of rotation of the motor can be controlled by either an analog signal or a pulse width modulated (PWM) signal. 
-    Apart from this, speed of rotation and positional feedback information are available in both analog and digital forms, thus the module can be controlled by either an analog or digital system.
+  <li><b>LJ Technical Systems' servosystem:</b> This motor module enables the user to perform closed-loop, positional or speed control of a DC motor. <br>
+    The speed and direction of rotation of the motor can be controlled by either an analog signal or a pulse width modulated (PWM) signal. <br>
+    Apart from this, speed of rotation and positional feedback information are available in both analog and digital forms, thus the module can be controlled by either an analog or digital system. <br>
   In this case, we will control the module by an analog signals, but the controller used to close the loop will be discrete, in this form we will use the Arduino as A/D and D/A converter. </li>
 </ul>   
 
