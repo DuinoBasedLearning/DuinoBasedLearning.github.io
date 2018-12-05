@@ -14,3 +14,6 @@ permalink: /equipment/
 
 
 As we can see on the image.....
+
+
+![ConnectionDiagram](Connection.PNG)
