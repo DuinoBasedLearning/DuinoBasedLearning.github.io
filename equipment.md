@@ -36,6 +36,6 @@ On those projects the Arduino board has been programed by Simulink, but it can a
   For more information about this packages you can search go to <https://es.mathworks.com/discovery/programacion-arduino.html>.
 
 
-|![ConnectionDiagram](Connection.PNG)|![desktop](desktop.jpg)|
+|![ConnectionDiagram](Connection.PNG)|<img src="desktop.jpg" alt="Smiley face" height="42" width="42">|
 | :---------: |:---------:|
 
