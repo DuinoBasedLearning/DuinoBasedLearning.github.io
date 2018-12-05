@@ -18,7 +18,11 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## [PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital](P1_es.html)
+## PRÁCTICA 1: Análisis de la Respuesta Temporal de un Sistema de Control Digital
+
+Para una explicación más detallada de la práctica 1 clique [aquí](P1_es.html).
+
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
 
 <https://youtu.be/XCYyAsYCE4E>
 {% include youtubePlayer.html id=page.youtubeId1 %}
@@ -26,7 +30,11 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## [PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital](P2_es.html)
+## PRÁCTICA 2: Análisis de la respuesta frecuencial de un sistema de control digital
+
+Para una explicación más detallada de la práctica 2 clique [aquí](P2_es.html).
+
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
 
 <https://youtu.be/MeKYclOT9Zc>
 {% include youtubePlayer.html id=page.youtubeId2 %}
