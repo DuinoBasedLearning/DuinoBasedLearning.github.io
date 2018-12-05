@@ -37,5 +37,5 @@ On those projects the Arduino board has been programed by Simulink, but it can a
 
 
 |![ConnectionDiagram](Connection.PNG)|![desktop](desktop.jpg)|
-
+| :---------: |:---------:|
 
