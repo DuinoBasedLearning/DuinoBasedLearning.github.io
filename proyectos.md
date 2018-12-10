@@ -42,7 +42,9 @@ También puedes encontrar un video explicativo donde se explica los pasos seguid
 
 <hr/>
 
-## *PRÁCTICA 3: Diseño e implementación de controladores PID*
+## PRÁCTICA 3: Diseño e implementación de controladores PID
+
+Para una explicación más detallada de la práctica 3 clique [aquí](P3_es.html).
 
 <hr/>
 
