@@ -21,3 +21,5 @@ github_username: DuinoBasedLearning
 
 theme: minima
 encoding: UTF-8
+plugins:
+  - jemoji
