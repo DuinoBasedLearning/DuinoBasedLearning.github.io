@@ -7,5 +7,5 @@ permalink: /download/
 
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](descargar.md) | ![Català](ca.png) [CATALÀ](Descarregar.md)
 
-https://github.com/DuinoBasedLearning/Lab/releases/edit/Cat1
+
 https://github.com/DuinoBasedLearning/Lab/releases/tag/Cat1
