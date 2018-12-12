@@ -8,4 +8,4 @@ permalink: /download/
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](descargar.md) | ![Català](ca.png) [CATALÀ](Descarregar.md)
 
 
-https://github.com/DuinoBasedLearning/Lab/releases/tag/Cat1
+Download the complete repository from[:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/releases/tag/Cat1)
