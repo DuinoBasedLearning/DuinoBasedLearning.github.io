@@ -14,7 +14,9 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 
 <hr/>
 
-## *PRÁCTICA 0: Introducción a la programación en Arduino mediante MATLAB/Simulink*
+## PRÁCTICA 0: Introducción a la programación en Arduino mediante MATLAB/Simulink
+
+Para una explicación más detallada de la práctica 0 clique [aquí](P0_es.html).
 
 <hr/>
 
