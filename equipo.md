@@ -7,7 +7,7 @@ Para realizar los proyectos realizados en esta página web, se necesitan los ele
 <ul>
   <li><b>Arduino Due:</b> Existen varias placas similares de Arduino que podrían ser utilizados. Todos ellos tienen un precio similar pero diferente carga de computacional. Para este proyecto se ha seleccionado la placa Arduino Due debido a su alto rendimiento de computación y al hecho de que tiene convertidores D/A reales (la mayoría de la placa Arduino solo tiene salida PWM).
   </li>
-  <li><b>LJ Technical Systems' servosystem:</b>Este módulo permite al usuario realizar un control de circuito cerrado, posicional o de velocidad de un motor de CC.     
+  <li><b>LJ Technical Systems' servosystem:</b> Este módulo permite al usuario realizar un control de circuito cerrado, posicional o de velocidad de un motor de CC.     
     La velocidad y la dirección de rotación del motor se pueden controlar mediante una señal analógica o una señal modulada en ancho de pulso (PWM).     
     Aparte de esto, la velocidad de rotación y la información de realimentación posicional están disponibles en forma analógica y digital, por lo que el módulo puede ser controlado por un sistema analógico o digital.   En este caso, controlaremos el módulo mediante señales analógicas, pero el controlador utilizado para cerrar el bucle será discreto, de esta forma usaremos el Arduino como convertidor A / D y D / A </li>
 </ul>   
@@ -24,7 +24,7 @@ Para realizar los proyectos realizados en esta página web, se necesitan los ele
 
 <ul>
   <li><b>Banana cables:</b> This cables are used to connect the Arduino Due with our plant. By this cables, we are able to obtain and transfere data related to the input voltage and output voltages of the potentiometer and dynamo tachimeter. The connection to common ground between the Arduino and the servosystem is also done by this cables.</li>
-  <li><b>USB cable:</b> The USB cable is used to connect the <i>programming port</i> of the Due to the computer.</li>
+  <li><b>USB cable:</b> The USB cable is used to connect the Arduino Due from the <i>programming port</i> to the computer.</li>
 </ul>  
 
 On the following images we can see the connection diagram of our complete system. <br>
