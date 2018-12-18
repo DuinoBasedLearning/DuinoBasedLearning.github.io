@@ -33,7 +33,7 @@ In order to realize the projects done in this web page, the items depicted in th
 
 <ul>
   <li><b>Banana cables:</b> This cables are used to connect the Arduino Due with our plant. By this cables, we are able to obtain and transfere data related to the input voltage and output voltages of the potentiometer and dynamo tachimeter. The connection to common ground between the Arduino and the servosystem is also done by this cables.</li>
-  <li><b>USB cable:</b> The USB cable is used to connect the <i>programming port</i> of the Due to the computer.</li>
+  <li><b>USB cable:</b> The USB cable is used to connect the Arduino Due from the <i>programming port</i> to the computer.</li>
 </ul>  
 
 On the following images we can see the connection diagram of our complete system. <br>
