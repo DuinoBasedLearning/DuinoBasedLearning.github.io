@@ -5,18 +5,17 @@ Para realizar los proyectos realizados en esta página web, se necesitan los ele
 ![Equipment](equipment.PNG)
 
 <ul>
-  <li><b>Arduino Due:</b> There exist similar Arduino boards which could be used. All of them have similar price but different computation burden. In the project, the Arduino Due board was selected due to it high computation performance and the fact that ithas real DA converters (most of the Arduino board only have PWM output).
+  <li><b>Arduino Due:</b> Existen varias placas similares de Arduino que podrían ser utilizados. Todos ellos tienen un precio similar pero diferente carga de computacional. Para este proyecto se ha seleccionado la placa Arduino Due debido a su alto rendimiento de computación y al hecho de que tiene convertidores D/A reales (la mayoría de la placa Arduino solo tiene salida PWM).
   </li>
-  <li><b>LJ Technical Systems' servosystem:</b> This motor module enables the user to perform closed-loop, positional or speed control of a DC motor. 
-    The speed and direction of rotation of the motor can be controlled by either an analog signal or a pulse width modulated (PWM) signal. 
-    Apart from this, speed of rotation and positional feedback information are available in both analog and digital forms, thus the module can be controlled by either an analog or digital system. 
-  In this case, we will control the module by an analog signals, but the controller used to close the loop will be discrete, in this form we will use the Arduino as A/D and D/A converter. </li>
+  <li><b>LJ Technical Systems' servosystem:</b>Este módulo permite al usuario realizar un control de circuito cerrado, posicional o de velocidad de un motor de CC.     
+    La velocidad y la dirección de rotación del motor se pueden controlar mediante una señal analógica o una señal modulada en ancho de pulso (PWM).     
+    Aparte de esto, la velocidad de rotación y la información de realimentación posicional están disponibles en forma analógica y digital, por lo que el módulo puede ser controlado por un sistema analógico o digital.   En este caso, controlaremos el módulo mediante señales analógicas, pero el controlador utilizado para cerrar el bucle será discreto, de esta forma usaremos el Arduino como convertidor A / D y D / A </li>
 </ul>   
 
 ![Motor](motorra2.png)
 
 <ul>
-  <li><b>Arduino Due shield:</b> The input and output range of our plant is &plusmn 5v while the Arduino Due can only handle signals in the [0,3.3]v range. In order to avoid this problem, a signal conditioner in the shape of a shield has been designed.</li>
+  <li><b>Arduino Due shield:</b> El rango de entrada y salida de nuestra planta es de &plusmn 5v, mientras que el Arduino Due solo puede manejar señales en el rango [0,3.3] v. Para evitar este problema, se ha diseñado un acondicionador de señal con forma de <i>shield<\i>.</li>
 </ul>   
 
 ![DueShield](shield.png)
