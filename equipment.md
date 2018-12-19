@@ -29,7 +29,7 @@ In order to realize the projects done in this web page, the items depicted in th
 
 ![DueShield](shield.png)
 
-The design of the shield is avaliable in: <https://github.com/DuinoBasedLearning/Lab/blob/master/Es/AdapSe%C3%B1al.pdf>, and the gerbers on <https://github.com/DuinoBasedLearning/Lab/blob/master/Common/Gerbers.zip>
+The design of the shield is avaliable in: <https://github.com/DuinoBasedLearning/Lab/blob/master/En/SignalAdapter.pdf>, and the gerbers on <https://github.com/DuinoBasedLearning/Lab/blob/master/Common/Gerbers.zip>
 
 <ul>
   <li><b>Banana cables:</b> This cables are used to connect the Arduino Due with our plant. By this cables, we are able to obtain and transfere data related to the input voltage and output voltages of the potentiometer and dynamo tachimeter. The connection to common ground between the Arduino and the servosystem is also done by this cables.</li>
