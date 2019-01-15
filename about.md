@@ -22,7 +22,7 @@ Con la colaboración de:
 
 
 
-/***
+
 \begin{table}[]
 \centering
 \caption{My caption}
@@ -34,4 +34,4 @@ Cat     & Soccer     & Apple  \\ \hline
 Dog     & Basketball & Orange \\ \hline
 \end{tabular}
 \end{table}
-***/
+
