@@ -21,25 +21,17 @@ Con la colaboración de:
 |<b>Carlos Sanchis:</b> Carlos Sanchis is the Technical Specialist of Mathworks for Spain and Portugal. He is currently collaborating with the academic community to leverage MATLAB and Simulink for STEM (Science, Technology, Engineering and Mathematics) higher education and research.| 
 
 
-<table style="width:100%">
- <tr>
-  <td>![Eneko](EnekoL.jpg)</td>
-  <td>![Robert](RobertG.jpg)</td>
-  <td>![Ramon](RamonC.jpg)</td>
- </tr>
- <tr>
-  <td>Row 1</td>
-  <td>Text</td>
-  <td align=right>1</td>
- </tr>
- <tr>
-  <td>Row 2</td>
-  <td>Abcdefg</td>
-  <td align=right>123</td>
- </tr>
- <tr>
-  <td>Row 3</td>
-  <td>Abcdefghijklmnop</td>
-  <td align=right>123456</td>
- </tr>
-</table>
+
+/***
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Animals} & \textbf{Sports}  & \textbf{Fruits} \\ \hline
+Cat     & Soccer     & Apple  \\ \hline
+Dog     & Basketball & Orange \\ \hline
+\end{tabular}
+\end{table}
+***/
