@@ -7,7 +7,6 @@ permalink: /about/
 
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](sobrenosotros.md) | ![Català](ca.png) [CATALÀ](sobrenosaltres.md)
 
-jhbhjbjb 
 
 |![img](Eneko2.jpg)|![Robert](RobertG.jpg)|![Ramon](RamonC.jpg)|
 | --------- |---------| ---------|
