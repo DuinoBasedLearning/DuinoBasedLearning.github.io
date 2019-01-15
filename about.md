@@ -21,7 +21,7 @@ Con la colaboración de:
 |<b>Carlos Sanchis:</b> Carlos Sanchis is the Technical Specialist of Mathworks for Spain and Portugal. He is currently collaborating with the academic community to leverage MATLAB and Simulink for STEM (Science, Technology, Engineering and Mathematics) higher education and research.| 
 
 
-style="width:100%"
+<table style="width:100%">
  <tr>
   <td>First Column</td>
   <td>Second Column</td>
