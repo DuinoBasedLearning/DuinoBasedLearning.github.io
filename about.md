@@ -16,7 +16,7 @@ permalink: /about/
 
 In collaboration with:
 
-![Carlos](CarlosS.jpg=200x200)<b>Carlos Sanchis:</b> Carlos Sanchis is the Technical Specialist of Mathworks for Spain and Portugal. He is currently collaborating with the academic community to leverage MATLAB and Simulink for STEM (Science, Technology, Engineering and Mathematics) higher education and research. 
+![Carlos](CarlosS.jpg | width = 100)<b>Carlos Sanchis:</b> Carlos Sanchis is the Technical Specialist of Mathworks for Spain and Portugal. He is currently collaborating with the academic community to leverage MATLAB and Simulink for STEM (Science, Technology, Engineering and Mathematics) higher education and research. 
 
 
 
