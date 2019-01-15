@@ -23,9 +23,9 @@ Con la colaboración de:
 
 <table style="width:100%">
  <tr>
-  <td>First Column</td>
-  <td>Second Column</td>
-  <td>Third Column</td>
+  <td>![Eneko](EnekoL.jpg)</td>
+  <td>![Robert](RobertG.jpg)</td>
+  <td>![Ramon](RamonC.jpg)</td>
  </tr>
  <tr>
   <td>Row 1</td>
