@@ -31,4 +31,4 @@ En aquesta secció podeu trobar tota la informació per dur a terme qualsevol d'
 
 <hr/>
 
-## *PRÀCTICA 5: Disseny de controladors en el domini de freqüència*
+## *PRÀCTICA 5: Disseny de controladors en camp freqüencial*
