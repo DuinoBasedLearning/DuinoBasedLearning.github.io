@@ -8,9 +8,9 @@ permalink: /projects/
 ![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](proyectos.md) | ![Català](ca.png) [CATALÀ](projectes.md)
 
 
-Find a first draft in [Spanish](proyectos.md) ...
-
 # Projects
+
+Find a first draft in [Spanish](proyectos.md) ...
 
 The practices of the subject Computer Control consist in the study of a servomechanism of angular positioning (LJ Technical Systems) controlled by a PC. The laboratory sessions P1 and P2 focus on the experimental analysis of the temporal and frequency responses of the system respectively. Sessions P3 and P4 are dedicated to the design of PID controllers. Finally, in practice P5 controllers will be designed in the frequency domain.
 
