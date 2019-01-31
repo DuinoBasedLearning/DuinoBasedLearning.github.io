@@ -18,7 +18,7 @@ In this section you can find all the information to carry out any of these pract
 
 <hr/>
 
-## *PRACTICE 0: Introduction to Arduino programming using MATLAB / Simulink*
+## *PRACTICE 0: Introduction to Arduino programming using MATLAB/Simulink*
 
 <hr/>
 
