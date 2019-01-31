@@ -11,7 +11,7 @@ En aquesta secció podeu trobar tota la informació per dur a terme qualsevol d'
 
 <hr/>
 
-## *PRÀCTICA 0: Introducció a la programació d'Arduino mitjançant MATLAB / Simulink*
+## *PRÀCTICA 0: Introducció a la programació d'Arduino mitjançant MATLAB/Simulink*
 
 <hr/>
 
