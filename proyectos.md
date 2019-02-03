@@ -50,7 +50,7 @@ Para una explicación más detallada de la práctica 3 clique [aquí](P3_es.html
 
 <hr/>
 
-## *PRÁCTICA 4: Mejora de los controladores PID implementados en la páctica 3*
+## *PRÁCTICA 4: Mejora de los controladores PID implementados en la práctica 3*
 
 <hr/>
 
