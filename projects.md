@@ -1,4 +1,5 @@
 ---
+youtubeId1: WqcMNi_DBOA
 layout: page
 lang: en
 title: PROJECTS
@@ -21,6 +22,13 @@ In this section you can find all the information to carry out any of these pract
 ## PRACTICE 0: Introduction to Arduino programming using MATLAB/Simulink
 
 For a more detailed explanation of the practice 0 click [here](P0_en.html).
+
+<https://youtu.be/WqcMNi_DBOA>
+{% include youtubePlayer.html id=page.youtubeId1 %}
+<br />
+
+
+
 
 <hr/>
 
