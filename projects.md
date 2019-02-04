@@ -1,5 +1,6 @@
 ---
 youtubeId1: WqcMNi_DBOA
+youtubeId2: uxyQx1sc2Y4
 layout: page
 lang: en
 title: PROJECTS
@@ -27,9 +28,6 @@ You can also find an explanatory video.
 {% include youtubePlayer.html id=page.youtubeId1 %}
 <br />
 
-
-
-
 <hr/>
 
 ## PRACTICE 1: Analysis of the Temporary Response of a Digital Control System
@@ -37,6 +35,10 @@ You can also find an explanatory video.
 For a more detailed explanation of the practice  click [here](P1_en.html).
 
 <hr/>
+
+<https://youtu.be/uxyQx1sc2Y4>
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br />
 
 ## PRACTICE 2: Analysis of the frequency response of a digital control system
 
