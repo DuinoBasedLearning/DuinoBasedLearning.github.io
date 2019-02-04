@@ -34,11 +34,13 @@ You can also find an explanatory video.
 
 For a more detailed explanation of the practice  click [here](P1_en.html).
 
-<hr/>
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
 
 <https://youtu.be/uxyQx1sc2Y4>
 {% include youtubePlayer.html id=page.youtubeId2 %}
 <br />
+
+<hr/>
 
 ## PRACTICE 2: Analysis of the frequency response of a digital control system
 
