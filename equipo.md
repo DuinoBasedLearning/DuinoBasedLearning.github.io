@@ -15,7 +15,7 @@ Para realizar los proyectos realizados en esta página web, se necesitan los ele
 ![Motor](motorra2.png)
 
 <ul>
-  <li><b>Arduino Due shield:</b> El rango de entrada y salida de nuestra planta es de &plusmn 5v, mientras que el Arduino Due solo puede manejar señales en el rango [0,3.3] v. Para evitar este problema, se ha diseñado un acondicionador de señal con forma de <i>shield</i>.</li>
+  <li><b>Arduino Due shield:</b> El rango de entrada y salida de nuestra planta es de &#xB1 5v, mientras que el Arduino Due solo puede manejar señales en el rango [0,3.3] v. Para evitar este problema, se ha diseñado un acondicionador de señal con forma de <i>shield</i>.</li>
 </ul>   
 
 ![DueShield](shield.png)
