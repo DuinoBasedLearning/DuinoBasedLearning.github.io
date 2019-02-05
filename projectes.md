@@ -19,7 +19,7 @@ En aquesta secció podeu trobar tota la informació per dur a terme qualsevol d'
 
 <hr/>
 
-## *PRÀCTICA 2: Anàlisi de la resposta de freqüència d'un sistema de control digital*
+## *PRÀCTICA 2: Anàlisi de la resposta de freqüèncial d'un sistema de control digital*
 
 <hr/>
 
