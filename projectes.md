@@ -3,7 +3,7 @@
 
 # Projectes
 
-Trobeu un primer esborrany a [espanyol](proyectos.md) ...
+Trobeu un primer esborrany de vídeos en [anglès](projects.md) o [espanyol](proyectos.md) ...
 
 Les pràctiques de l’assignatura Control amb Computador consisteixen en l’estudi d’un servomecanisme de posicionament angular controlat per un PC. Les sessions de laboratori P1 i P2 es centren, respectivament, en l’anàlisi experimental de les respostes temporal i freqüencial del sistema. Les sessions P3 i P4 es dediquen al disseny de controladors PID. Finalment, en la pràctica P5 es dissenyaran controladors en camp freqüencial.
 
