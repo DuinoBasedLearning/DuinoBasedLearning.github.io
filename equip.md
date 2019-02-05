@@ -15,7 +15,7 @@ Per a realitzar els projectes realitzats en aquesta pàgina web, es necessiten e
 ![Motor](motorra2.png)
 
 <ul>
-  <li><b>Arduino Due shield:</b> El rang d'entrada i sortida de la nostra planta és de &plusmn 5v, mentre que el Arduino Due només pot gestionar senyals en el rang [0,3.3] v. Per evitar aquest problema, s'ha dissenyat un condicionador de senyal amb forma de <i>shield</i>. </li>
+  <li><b>Arduino Due shield:</b> El rang d'entrada i sortida de la nostra planta és de &#xB1 5v, mentre que el Arduino Due només pot gestionar senyals en el rang [0,3.3] v. Per evitar aquest problema, s'ha dissenyat un condicionador de senyal amb forma de <i>shield</i>. </li>
 </ul>   
 
 ![DueShield](shield.png)
