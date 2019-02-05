@@ -11,19 +11,27 @@ En aquesta secció podeu trobar tota la informació per dur a terme qualsevol d'
 
 <hr/>
 
-## *PRÀCTICA 0: Introducció a la programació d'Arduino mitjançant MATLAB/Simulink*
+## PRÀCTICA 0: Introducció a la programació d'Arduino mitjançant MATLAB/Simulink
+
+Per a una explicació més detallada de la pràctica 0 cliqueu [aquí](P0_ca.html).
 
 <hr/>
 
-## *PRÀCTICA 1: Anàlisi de la resposta temporal d'un sistema de control digital*
+## PRÀCTICA 1: Anàlisi de la resposta temporal d'un sistema de control digital
+
+Per a una explicació més detallada de la pràctica 1 cliqueu [aquí](P1_ca.html).
 
 <hr/>
 
-## *PRÀCTICA 2: Anàlisi de la resposta de freqüèncial d'un sistema de control digital*
+## PRÀCTICA 2: Anàlisi de la resposta de freqüèncial d'un sistema de control digital
+
+Per a una explicació més detallada de la pràctica 2 cliqueu [aquí](P2_ca.html).
 
 <hr/>
 
-## *PRÀCTICA 3: Disseny i implementació de controladors PID*
+## PRÀCTICA 3: Disseny i implementació de controladors PID
+
+Per a una explicació més detallada de la pràctica 2 cliqueu [aquí](P2_ca.html).
 
 <hr/>
 
