@@ -1,6 +1,6 @@
 ---
-youtubeId1: WqcMNi_DBOA
-youtubeId2: uxyQx1sc2Y4
+youtubeId0: WqcMNi_DBOA
+youtubeId1: kdUdi_CNm0g
 layout: page
 lang: en
 title: PROJECTS
@@ -25,7 +25,7 @@ For a more detailed explanation of the practice 0 click [here](P0_en.html).
 You can also find an explanatory video.
 
 <https://youtu.be/WqcMNi_DBOA>
-{% include youtubePlayer.html id=page.youtubeId1 %}
+{% include youtubePlayer.html id=page.youtubeId0 %}
 <br />
 
 <hr/>
@@ -36,8 +36,8 @@ For a more detailed explanation of the practice  click [here](P1_en.html).
 
 You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
 
-<https://youtu.be/uxyQx1sc2Y4>
-{% include youtubePlayer.html id=page.youtubeId2 %}
+<https://youtu.be/kdUdi_CNm0g>
+{% include youtubePlayer.html id=page.youtubeId1 %}
 <br />
 
 <hr/>
