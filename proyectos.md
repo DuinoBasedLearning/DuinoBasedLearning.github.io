@@ -1,4 +1,5 @@
 ---
+youtubeId0: HWTu6suV7tc
 youtubeId1: XCYyAsYCE4E
 youtubeId2: MeKYclOT9Zc
 
@@ -17,6 +18,12 @@ En este apartado podéis encontrar toda la información para poder realizar cual
 ## PRÁCTICA 0: Introducción a la programación en Arduino mediante MATLAB/Simulink
 
 Para una explicación más detallada de la práctica 0 clique [aquí](P0_es.html).
+
+También puedes encontrar un video explicativo.
+
+<https://youtu.be/HWTu6suV7tc>
+{% include youtubePlayer.html id=page.youtubeId0 %}
+<br />
 
 <hr/>
 
