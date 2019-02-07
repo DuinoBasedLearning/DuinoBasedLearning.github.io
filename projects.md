@@ -1,5 +1,5 @@
 ---
-youtubeId0: WqcMNi_DBOA
+youtubeId0: i0usb6XgttI
 youtubeId1: kdUdi_CNm0g
 layout: page
 lang: en
@@ -24,7 +24,7 @@ For a more detailed explanation of the practice 0 click [here](P0_en.html).
 
 You can also find an explanatory video.
 
-<https://youtu.be/WqcMNi_DBOA>
+<https://youtu.be/i0usb6XgttI>
 {% include youtubePlayer.html id=page.youtubeId0 %}
 <br />
 
