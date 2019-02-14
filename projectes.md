@@ -35,7 +35,7 @@ Per a una explicació més detallada de la pràctica 1 cliqueu [aquí](P1_ca.htm
 
 <hr/>
 
-## PRÀCTICA 2: Anàlisi de la resposta de freqüèncial d'un sistema de control digital
+## PRÀCTICA 2: Anàlisi de la resposta de freqüencial d'un sistema de control digital
 
 Per a una explicació més detallada de la pràctica 2 cliqueu [aquí](P2_ca.html).
 
