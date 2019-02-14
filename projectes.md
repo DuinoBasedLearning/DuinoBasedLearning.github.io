@@ -22,7 +22,7 @@ Per a una explicació més detallada de la pràctica 0 cliqueu [aquí](P0_ca.htm
 
 També pots trobar un vídeo explicatiu.
 
-< https://youtu.be/tTeDjx-LRJU>
+<https://youtu.be/tTeDjx-LRJU>
 {% include youtubePlayer.html id=page.youtubeId0 %}
 <br />
 
