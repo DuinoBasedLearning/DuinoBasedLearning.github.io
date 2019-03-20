@@ -1,6 +1,7 @@
 ---
 youtubeId0: i0usb6XgttI
 youtubeId1: kdUdi_CNm0g
+youtubeId2: SZneBzSawTI
 layout: page
 lang: en
 title: PROJECTS
@@ -45,6 +46,12 @@ You can also find an explanatory video explaining the steps followed along with 
 ## PRACTICE 2: Analysis of the frequency response of a digital control system
 
 For a more detailed explanation of the practice 2 click [here](P2_en.html).
+
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+
+<https://youtu.be/SZneBzSawTI>
+{% include youtubePlayer.html id=page.youtubeId2 %}
+<br />
 
 <hr/>
 
