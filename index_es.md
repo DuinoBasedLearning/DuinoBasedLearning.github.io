@@ -2,7 +2,7 @@
 
 <img src="Logo1.png" alt="Logo DBL" width="500" height="100">
 
-Creemos que la experimentación es clave en el aprendizaje. Es difícil emplear la metodología del Aprendizaje Basado en Proyectos desde cero y por eso pretendemos proporcionar un punto de partida para cualquier educador o estduiante. DBL es un proyecto para desarrollar materiales libremente redistribuibles para llevar a cabo proyectos de laboratorios educativos con MATLAB, Simulink, Arduino y plantas de bajo coste.
+Creemos que la experimentación es clave en el aprendizaje. Es difícil emplear la metodología del Aprendizaje Basado en Proyectos desde cero y por eso pretendemos proporcionar un punto de partida para cualquier educador o estudiante. DBL es un proyecto para desarrollar materiales libremente redistribuibles para llevar a cabo proyectos de laboratorios educativos con MATLAB, Simulink, Arduino y plantas de bajo coste.
 
 Este laboratorio introduce los fundamentos de la Ingeniería de Control a través de simulaciones y prototipado rápido de controladores con el paquete de soporte de Arduino gratuito para MATLAB y Simulink: <https://mathworks.com/arduino>.
 
