@@ -13,7 +13,7 @@ permalink: /projects/
 
 # Projects
 
-The practices of the subject Computer Control consist in the study of a servomechanism of angular positioning (LJ Technical Systems) controlled by a PC. The laboratory sessions P1 and P2 focus on the experimental analysis of the temporal and frequency responses of the system respectively. Sessions P3 and P4 are dedicated to the design of PID controllers. Finally, in practice P5 controllers will be designed in the frequency domain.
+The practices of the Automatic Control subject consist in the study of a servomechanism of angular positioning (LJ Technical Systems) controlled by a PC. The laboratory sessions P1 and P2 focus on the experimental analysis of the temporal and frequency responses of the system, respectively. Sessions P3 and P4 are dedicated to the design of PID controllers. Finally, in session P5 controllers will be designed in the frequency domain.
 
 In this section you can find all the information to carry out any of these practices. The materials include instructions for building low-cost plants, exercises and videos.
 
