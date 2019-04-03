@@ -19,7 +19,7 @@ In this section you can find all the information to carry out any of these pract
 
 <hr/>
 
-## PRACTICE 0: Introduction to Arduino programming using MATLAB/Simulink
+## SESSION 0: Introduction to Arduino programming using MATLAB/Simulink
 
 For a more detailed explanation of the practice 0 click [here](P0_en.html).
 
@@ -31,7 +31,7 @@ You can also find an explanatory video.
 
 <hr/>
 
-## PRACTICE 1: Analysis of the Temporary Response of a Digital Control System
+## SESSION 1: Analysis of the Temporary Response of a Digital Control System
 
 For a more detailed explanation of the practice  click [here](P1_en.html).
 
@@ -43,7 +43,7 @@ You can also find an explanatory video explaining the steps followed along with 
 
 <hr/>
 
-## PRACTICE 2: Analysis of the frequency response of a digital control system
+## SESSION 2: Analysis of the frequency response of a digital control system
 
 For a more detailed explanation of the practice 2 click [here](P2_en.html).
 
@@ -55,14 +55,14 @@ You can also find an explanatory video explaining the steps followed along with 
 
 <hr/>
 
-## PRACTICE 3: Design and implementation of PID controllers
+## SESSION 3: Design and implementation of PID controllers
 
 For a more detailed explanation of the practice 3 click [here](P3_en.html).
 
 <hr/>
 
-## *PRACTICE 4: Improvement of PID controllers implemented in practice 3*
+## *SESSION 4: Improvement of the PID controllers implemented in practice 3*
 
 <hr/>
 
-## *PRACTICE 5: Design of controllers in the frequency domain*
+## *SESSION 5: Design of controllers in the frequency domain*
