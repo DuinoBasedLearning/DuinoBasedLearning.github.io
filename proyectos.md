@@ -57,9 +57,13 @@ Para una explicación más detallada de la práctica 3 clique [aquí](P3_es.html
 
 <hr/>
 
-## *PRÁCTICA 4: Mejora de los controladores PID implementados en la práctica 3*
+## PRÁCTICA 4: Mejora de los controladores PID implementados en la práctica 3
+
+Para una explicación más detallada de la práctica 4 clique [aquí](P4_es.html).
 
 <hr/>
 
-## *PRÁCTICA 5: Diseño de controladores en campo frecuencial*
+## PRÁCTICA 5: Diseño de controladores en campo frecuencial
+
+Para una explicación más detallada de la práctica 5 clique [aquí](P5_es.html).
 
