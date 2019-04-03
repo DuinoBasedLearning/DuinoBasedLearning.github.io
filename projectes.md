@@ -43,12 +43,16 @@ Per a una explicació més detallada de la pràctica 2 cliqueu [aquí](P2_ca.htm
 
 ## PRÀCTICA 3: Disseny i implementació de controladors PID
 
-Per a una explicació més detallada de la pràctica 2 cliqueu [aquí](P2_ca.html).
+Per a una explicació més detallada de la pràctica 3 cliqueu [aquí](P3_ca.html).
 
 <hr/>
 
-## *PRÀCTICA 4: Millora dels controladors PID implementats a la pràctica 3*
+## PRÀCTICA 4: Millora dels controladors PID implementats a la pràctica 3
+
+Per a una explicació més detallada de la pràctica 4 cliqueu [aquí](P4_ca.html).
 
 <hr/>
 
-## *PRÀCTICA 5: Disseny de controladors en camp freqüencial*
+## PRÀCTICA 5: Disseny de controladors en camp freqüencial
+
+Per a una explicació més detallada de la pràctica 5 cliqueu [aquí](P5_ca.html).
