@@ -10,4 +10,4 @@ permalink: /download/
 
 Download the entire repository in the three languages from [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/releases/tag/Cat1)
 
-
+Download the spanish repository from [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/tree/master/Es)
