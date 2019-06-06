@@ -1,15 +1,11 @@
 <img src="en.png" alt="English"> [ENGLISH](download.md) | <img src="es.png" alt="Castellano"> *CASTELLANO* | <img src="ca.png" alt="Català"> [CATALÀ](Descarregar.md)
 
-<hr/>
-## Downloadable materials 
-A first draft is available at <https://github.com/DuinoBasedLearning/Lab/tree/master/en>
+Descarga todo el repositorio en los tres idiomas desde [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/releases/tag/CompleteProjectV1)
 
-<hr/>
-## Material descargable 
-Un primer borrador disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/es>
-<hr/>
+Descarga el repositorio en inglés desde [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/tree/master/En)
 
-## Material descarregable 
-Un primer esborrany està disponible en <https://github.com/DuinoBasedLearning/Lab/tree/master/cat> 
+Descarga el repositorio español desde [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/tree/master/Es)
 
-<hr/>
+Descarga el repositorio catalán desde [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/tree/master/Ca)
+
+Descarga los archivos de Simulink desde [:inbox_tray:](https://github.com/DuinoBasedLearning/Lab/tree/master/Common)
