@@ -20,7 +20,7 @@ Para realizar los proyectos realizados en esta página web, se necesitan los ele
 
 ![DueShield](shield.png)
 
-El diseño del *shield* está disponible en: <https://github.com/DuinoBasedLearning/Lab/blob/master/Es/AdapSe%C3%B1al.pdf>, y los *gerbers* en <https://github.com/DuinoBasedLearning/Lab/blob/master/Common/Gerbers.zip>
+El diseño del *shield* está disponible en: <https://github.com/DuinoBasedLearning/Lab/blob/master/Es/AdapSe%C3%B1al.pdf>, y los *gerbers* en <https://github.com/DuinoBasedLearning/Lab/blob/master/Common/GerbersV2.zip>
 
 
 <ul>
