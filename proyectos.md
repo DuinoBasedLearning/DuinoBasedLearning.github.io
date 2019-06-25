@@ -1,7 +1,11 @@
 ---
-youtubeId0: HWTu6suV7tc
-youtubeId1: YmDlm2Oejtg
-youtubeId2: MeKYclOT9Zc
+youtubeId0: i0usb6XgttI
+youtubeId1: kdUdi_CNm0g
+youtubeId2: SZneBzSawTI
+youtubeId3: laLrKwJvc-8
+youtubeId4: 10IshlRtfGs
+youtubeId5: TDoHiR8mlko
+youtubeId6: 2IfDiUxMBTw
 
 ---
 
@@ -55,15 +59,46 @@ También puedes encontrar un video explicativo donde se explica los pasos seguid
 
 Para una explicación más detallada de la práctica 3 clique [aquí](P3_es.html).
 
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
+
+<https://youtu.be/laLrKwJvc-8>
+{% include youtubePlayer.html id=page.youtubeId3 %}
+<br />
+
+
 <hr/>
 
 ## PRÁCTICA 4: Mejora de los controladores PID implementados en la práctica 3
 
 Para una explicación más detallada de la práctica 4 clique [aquí](P4_es.html).
 
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
+
+<https://youtu.be/10IshlRtfGs>
+{% include youtubePlayer.html id=page.youtubeId4 %}
+<br />
+
 <hr/>
 
 ## PRÁCTICA 5: Diseño de controladores en campo frecuencial
 
 Para una explicación más detallada de la práctica 5 clique [aquí](P5_es.html).
+
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
+
+<https://youtu.be/TDoHiR8mlko>
+{% include youtubePlayer.html id=page.youtubeId5 %}
+<br />
+
+
+<hr/>
+
+## PRÁCTICA 6: Control Adaptativo Indirecto
+
+También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
+
+<https://youtu.be/2IfDiUxMBTw>
+{% include youtubePlayer.html id=page.youtubeId6 %}
+<br />
+
 
