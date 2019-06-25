@@ -2,6 +2,10 @@
 youtubeId0: i0usb6XgttI
 youtubeId1: kdUdi_CNm0g
 youtubeId2: SZneBzSawTI
+youtubeId3: laLrKwJvc-8
+youtubeId4: 10IshlRtfGs
+youtubeId5: TDoHiR8mlko
+youtubeId6: 2IfDiUxMBTw
 layout: page
 lang: en
 title: PROJECTS
@@ -59,14 +63,42 @@ You can also find an explanatory video explaining the steps followed along with 
 
 For a more detailed explanation of the session 3 click [here](P3_en.html).
 
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+
+<https://youtu.be/laLrKwJvc-8>
+{% include youtubePlayer.html id=page.youtubeId3 %}
+<br />
+
 <hr/>
 
 ## SESSION 4: Improvement of the PID controllers implemented in practice 3
 
 For a more detailed explanation of the session 4 click [here](P4_en.html).
 
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+
+<https://youtu.be/10IshlRtfGs>
+{% include youtubePlayer.html id=page.youtubeId4 %}
+<br />
+
 <hr/>
 
 ## SESSION 5: Design of controllers in the frequency domain
 
 For a more detailed explanation of the session 5 click [here](P5_en.html).
+
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+
+<https://youtu.be/TDoHiR8mlko>
+{% include youtubePlayer.html id=page.youtubeId5 %}
+<br />
+
+<hr/>
+
+## SESSION 6: Indirect Adaptive Control
+
+You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+
+<https://youtu.be/2IfDiUxMBTw>
+{% include youtubePlayer.html id=page.youtubeId6 %}
+<br />
