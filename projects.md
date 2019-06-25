@@ -97,7 +97,7 @@ You can also find an explanatory video explaining the steps followed along with 
 
 ## SESSION 6: Indirect Adaptive Control
 
-You can also find an explanatory video explaining the steps followed along with the behavior of the engine.
+You can find an explanatory video explaining the steps followed along with the behavior of the engine.
 
 <https://youtu.be/2IfDiUxMBTw>
 {% include youtubePlayer.html id=page.youtubeId6 %}
