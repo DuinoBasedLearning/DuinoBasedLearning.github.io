@@ -25,7 +25,7 @@ Para una explicación más detallada de la práctica 0 clique [aquí](P0_es.html
 
 También puedes encontrar un video explicativo.
 
-<https://youtu.be/HWTu6suV7tc>
+<https://youtu.be/i0usb6XgttI>
 {% include youtubePlayer.html id=page.youtubeId0 %}
 <br />
 
@@ -37,7 +37,7 @@ Para una explicación más detallada de la práctica 1 clique [aquí](P1_es.html
 
 También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
 
-<https://youtu.be/YmDlm2Oejtg>
+<https://youtu.be/kdUdi_CNm0g>
 {% include youtubePlayer.html id=page.youtubeId1 %}
 <br />
 
@@ -49,7 +49,7 @@ Para una explicación más detallada de la práctica 2 clique [aquí](P2_es.html
 
 También puedes encontrar un video explicativo donde se explica los pasos seguidos junto con el comportamiento del motor.
 
-<https://youtu.be/MeKYclOT9Zc>
+<https://youtu.be/SZneBzSawTI>
 {% include youtubePlayer.html id=page.youtubeId2 %}
 <br />
 
