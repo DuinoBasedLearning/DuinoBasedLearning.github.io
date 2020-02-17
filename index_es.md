@@ -23,9 +23,13 @@ Los materiales incluyen:
 </ul>
 
 # Idiomas
-Todo el material estará disponible en:
+Todo el material está disponible en:
 <ul>
   <li>Inglés</li>
   <li>Castellano</li>
   <li>Catalán</li>
 </ul>
+
+# Licencias
+Todos los textos se distribuyen como [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/), mientras que el código y los modelosse rigen por la [licencia BSD](https://github.com/DuinoBasedLearning/Lab/blob/master/LICENSE).
+En resumen, apreciamos la redistribución de este trabajo (incluso con modificaciones), esperamos que se cite a los autores originales y animamos a educatores y estudiantes a contribuir a este proyecto y proporcionar comentarios.
