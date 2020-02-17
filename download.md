@@ -5,7 +5,7 @@ title: DOWNLOAD
 permalink: /download/
 ---
 
-[Latest stable release](https://github.com/DuinoBasedLearning/Lab/releases/tag/CompleteProjectV1)
+[Latest stable release](https://github.com/DuinoBasedLearning/Lab/releases/latest)
 
 [Git repository](https://github.com/DuinoBasedLearning/Lab)
 
