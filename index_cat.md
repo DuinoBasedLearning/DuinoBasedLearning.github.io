@@ -26,10 +26,13 @@ Els materials inclouen:
 </ul>
 
 # Idiomes
-Tot el material estarà disponible a::
+Tot el material està disponible en::
 <ul>
   <li>Anglès</li>
   <li>Castellà</li>
   <li>Català</li>
 </ul>
 
+# Llicències
+Tots els documents estàn sota [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) i el codi i models, sota [llicència BSD](https://github.com/DuinoBasedLearning/Lab/blob/master/LICENSE).
+En resum, apreciem la redistribuciò (amb o sense modificacions) citant els autors originals d'aquest treball i agraïm qualsevol contribució i comentaris d'educadors i al·lumnes.
