@@ -5,8 +5,6 @@ title: DOWNLOAD
 permalink: /download/
 ---
 
-![English](en.png) *ENGLISH* | ![Castellano](es.png) [CASTELLANO](descargar.md) | ![Català](ca.png) [CATALÀ](Descarregar.md)
-
 [Latest stable release](https://github.com/DuinoBasedLearning/Lab/releases/tag/CompleteProjectV1)
 
 [Git repository](https://github.com/DuinoBasedLearning/Lab)
