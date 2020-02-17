@@ -30,9 +30,13 @@ Materials include:
 </ul>
 
 # Languages
-All material will be available in:
+Available in:
 <ul>
   <li>English</li>
   <li>Spanish</li>
   <li>Catalan</li>
 </ul>
+
+# Licenses
+All texts are [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) while the code and models are under the [BSD license](https://github.com/DuinoBasedLearning/Lab/blob/master/LICENSE).
+In a nutshell, we welcome redistribution and modification, we expect you to cite the original authors of this work and we'd be very happy for educators and learners to contribute to this project and give us feedback.
